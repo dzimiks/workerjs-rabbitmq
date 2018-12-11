@@ -1,0 +1,8 @@
+{
+  "name": "workerjs-rabbitmq",
+  "version": "1.0.0",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "events": "^3.0.0"
+  }
+}
